@@ -43,6 +43,12 @@
 
 ![rsa](images/rsa.png)
 
+### CHMOD onbaord file
+
+![CHMOD](images/chmodonboard.png)
+### create developers group
+
+![developer](images/adddeveloper.png)
 
 
 
