@@ -1,6 +1,6 @@
 ## AUX PROJECT 1: SHELL SCRIPTING
 ### How to automate some work using Shell Scripts
-### In this project, I will onboard 20 new Linux users onto a server. I will Create a shell script that reads a csv file that contains the first name of the users to be onboarded. 
+### In this project, I will onboard 16 new Linux users onto a server. I will Create a shell script that reads a csv file that contains the first name of the users to be onboarded. 
 
 ## Creating a Shell Script
 
@@ -50,6 +50,13 @@
 
 ![developer](images/adddeveloper.png)
 
+#### all the 16 users added to developers group
+
+![users](images/usersadded.png)
+
+### all the 16 developer added to developer group
+
+![group](images/devconfimed.png)
 
 
 
