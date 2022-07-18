@@ -25,6 +25,30 @@
 `ls`
 ![LS](images/lstoshell.png)
 
+### I create a file for the public key 
+
+`touch id_rsa.pub`
+![touch](images/pub.png)
+
+### I open the file using your favorite editor and paste in the public key
+
+`vi id_rsa.pub`
+
+![edit](images/editpubkey.png)
+
+### I create a file for your private key
+
+`touch id_rsa`
+`vi id_rsa`
+
+![rsa](images/rsa.png)
+
+
+
+
+
+
+
 
 
 
